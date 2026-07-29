@@ -129,6 +129,11 @@ The most useful insights come from combining possession with tactics, chance cre
 
 **Beyond the Score. Discover the Story.**
 
----
+## Related Statistics
+
+- [Shots](shots.md)
+- [Passing Accuracy](passing-accuracy.md)
+- [Progressive Passes](progressive-passes.md)
+- [Expected Goals (xG)](xg.md)
 
 *Maintained by 365BeyondTheScores.*

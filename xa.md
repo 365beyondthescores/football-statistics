@@ -112,7 +112,10 @@ Different providers can use different models and methodologies to calculate xA.
 No.
 
 xA is a statistical estimate and does not guarantee that a chance will become a goal or an assist.
+## Related Statistics
 
+- [Expected Goals (xG)](xg.md)
+- [Ball Possession](possession.md)
 ## Summary
 
 Expected Assists (xA) provides a way to evaluate the quality of scoring opportunities created by a player's passes.

@@ -148,6 +148,11 @@ They complement assists and expected-assist metrics by focusing on the creation 
 
 **Beyond the Score. Discover the Story.**
 
----
+## Related Statistics
+
+- [Expected Assists (xA)](xa.md)
+- [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
+- [Progressive Passes](progressive-passes.md)
 
 *Maintained by 365BeyondTheScores.*

@@ -18,6 +18,7 @@ This repository introduces common football statistics and explains what they mea
 - [Shots on Target](shots-on-target.md)
 - [Passing Accuracy](passing-accuracy.md)
 - [Clean Sheet](clean-sheet.md)
+- [Key Passes](key-passes.md)
 ## Core Metrics List
 
 - 🎯 **[Expected Goals (xG)](xg.md)** — A statistical metric estimating shot probability.

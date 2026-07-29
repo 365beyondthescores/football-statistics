@@ -1,18 +1,188 @@
 # Football Statistics
 
-A structured knowledge resource covering football statistics, performance metrics, match data, and analytical concepts.
+> **Beyond the Score. Discover the Story.**
 
-## About
+A structured knowledge hub exploring football statistics, performance metrics, match data, and analytical concepts.
 
-Football statistics provide useful context for understanding team and player performance.
+## About This Knowledge Hub
 
-A final score tells us the result of a match, while statistics can help explain how the match was played.
+A final score tells us what happened.
 
-This repository introduces common football statistics and explains what they mean, how they are calculated, and how they can be interpreted.
-## Statistics Guide
+Football statistics can provide additional context about how a match was played, how opportunities were created, and how players and teams performed.
+
+This knowledge hub explains common football statistics in clear and accessible language.
+
+The goal is to help readers understand **what each metric means, how it is used, and how different statistics can be interpreted together.**
+
+---
+
+# Statistics Guide
+
+## Shooting & Chance Quality
+
+Statistics related to shots and scoring opportunities.
 
 - [Expected Goals (xG)](xg.md)
+- [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
+
+## Creativity & Chance Creation
+
+Statistics related to creating opportunities for teammates.
+
 - [Expected Assists (xA)](xa.md)
+- [Key Passes](key-passes.md)
+
+## Possession & Passing
+
+Statistics related to ball control and progression.
+
+- [Ball Possession](possession.md)
+- [Passing Accuracy](passing-accuracy.md)
+- [Progressive Passes](progressive-passes.md)
+
+## Defensive & Overall Performance
+
+Statistics that provide additional context about defensive and individual performance.
+
+- [Clean Sheet](clean-sheet.md)
+- [Player Ratings](player-ratings.md)
+
+---
+
+# Understanding Football Statistics
+
+Football statistics are most useful when considered together rather than viewed individually.
+
+For example:
+
+**Possession → Passing → Progression → Chance Creation → Shot Quality → Goals**
+
+Different statistics answer different questions.
+
+### Possession
+
+How much control did a team have over the ball?
+
+### Passing Accuracy
+
+How frequently were attempted passes completed?
+
+### Progressive Passes
+
+How effectively did a player or team move the ball toward advanced areas?
+
+### Key Passes
+
+How frequently did a player create shooting opportunities?
+
+### Expected Assists (xA)
+
+How valuable were the scoring opportunities created by a player's passes?
+
+### Shots
+
+How many attempts did a team or player make?
+
+### Shots on Target
+
+How many attempts were directed toward the goal according to the relevant statistical definition?
+
+### Expected Goals (xG)
+
+How valuable were the scoring opportunities created?
+
+### Clean Sheets
+
+Did a team finish the match without conceding a goal?
+
+### Player Ratings
+
+How did a statistical provider summarize an individual player's performance?
+
+---
+
+# Data → Context → Analysis → Insight
+
+Statistics are measurements, not complete explanations.
+
+A useful football analysis considers:
+
+1. **Data** — What happened?
+2. **Context** — What circumstances influenced the numbers?
+3. **Analysis** — What patterns can be identified?
+4. **Insight** — What can we learn from those patterns?
+
+For example, possession alone does not necessarily indicate attacking superiority.
+
+A team can have less possession while creating more dangerous chances through counter-attacking football.
+
+Similarly, a team can record many shots while producing relatively low expected-goal values.
+
+This is why multiple statistics should be interpreted together.
+
+---
+
+# Frequently Asked Questions
+
+## What are football statistics?
+
+Football statistics are numerical measurements used to describe different aspects of a match, team, or player performance.
+
+Examples include goals, shots, possession, passing accuracy, expected goals, and expected assists.
+
+## What is xG in football?
+
+Expected Goals (xG) is a statistical metric used to estimate the probability that a shot will result in a goal.
+
+See [Expected Goals (xG)](xg.md) for a detailed explanation.
+
+## What is xA in football?
+
+Expected Assists (xA) is a statistical metric used to estimate the quality of scoring opportunities created by a player's passes.
+
+See [Expected Assists (xA)](xa.md).
+
+## Does more possession mean a team played better?
+
+Not necessarily.
+
+Possession measures ball control, but it does not directly measure the quality of scoring opportunities or the final result.
+
+See [Ball Possession](possession.md).
+
+## What is the difference between shots and shots on target?
+
+Shots represent recorded attempts, while shots on target are attempts that meet the relevant definition of being directed toward the goal.
+
+See [Shots](shots.md) and [Shots on Target](shots-on-target.md).
+
+## What is a key pass?
+
+A key pass is generally a pass that directly leads to a teammate taking a shot.
+
+See [Key Passes](key-passes.md).
+
+## What is a clean sheet?
+
+A clean sheet occurs when a team finishes a match without conceding a goal.
+
+See [Clean Sheet](clean-sheet.md).
+
+## Why can football statistics differ between websites?
+
+Different providers may use different data sources, definitions, statistical models, and collection methods.
+
+When comparing statistics, always consider the provider and methodology.
+
+---
+
+# Related Resources
+
+Explore the individual statistical concepts in this knowledge hub:
+
+- [Expected Goals](xg.md)
+- [Expected Assists](xa.md)
 - [Ball Possession](possession.md)
 - [Shots](shots.md)
 - [Shots on Target](shots-on-target.md)
@@ -21,66 +191,27 @@ This repository introduces common football statistics and explains what they mea
 - [Key Passes](key-passes.md)
 - [Progressive Passes](progressive-passes.md)
 - [Player Ratings](player-ratings.md)
-## Core Metrics List
 
-- 🎯 **[Expected Goals (xG)](xg.md)** — A statistical metric estimating shot probability.
-- 👟 **[Expected Assists (xA)](xa.md)** — Measuring the quality of chances created by a pass.
-- 🔄 **[Possession Rate & Control](possession.md)** — Evaluating ball control, Field Tilt, and Build-up metrics.
-## Advanced Statistics
+---
 
-Modern football analysis also uses more advanced metrics to provide additional context.
-
-Examples include:
-
-- Expected Goals (xG)
-- Expected Assists (xA)
-- Progressive Passes
-- Progressive Carries
-- Shot-Creating Actions
-- Key Passes
-- Pressures
-- Defensive Actions
-
-## Why Football Statistics Matter
-
-Statistics should be interpreted together with match context.
-
-For example, having more possession does not automatically mean that a team created better scoring opportunities.
-
-Similarly, a team can have fewer shots but create higher-quality chances.
-
-Statistics are most useful when combined with context, tactics, player roles, and match circumstances.
-
-## Understanding xG
-
-Expected Goals (xG) is a statistical model that estimates the probability of a shot resulting in a goal.
-
-The value assigned to a shot can depend on factors such as:
-
-- Shot location
-- Shot angle
-- Type of assist
-- Body part used
-- Match situation
-
-xG is a statistical estimate, not a prediction or guarantee of a future result.
-
-## Data and Context
-
-The purpose of football statistics is not simply to collect numbers.
-
-The goal is to understand what the numbers can tell us about performance.
-
-**Data → Context → Analysis → Insight**
-
-## Disclaimer
-
-Statistics may vary between data providers because different providers can use different definitions, models, and collection methods.
-
-Always consider the source and methodology when comparing statistical data.
-
-## About 365BeyondTheScores
+# About 365BeyondTheScores
 
 365BeyondTheScores is an independent digital media and knowledge project focused on sports, statistics, gaming, strategy, and educational resources.
 
+We aim to make complex information easier to understand through structured explanations, data, context, and analysis.
+
 > **Beyond the Score. Discover the Story.**
+
+---
+
+## Disclaimer
+
+Football statistics can vary between providers because different organizations may use different data sources, definitions, models, and methodologies.
+
+This knowledge hub is intended for informational and educational purposes.
+
+Always consider the original data source and methodology when comparing statistics.
+
+---
+
+*Maintained by 365BeyondTheScores.*

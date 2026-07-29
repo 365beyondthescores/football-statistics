@@ -163,6 +163,11 @@ It is a useful indicator of defensive results, but it should be interpreted toge
 
 **Beyond the Score. Discover the Story.**
 
----
+## Related Statistics
+
+- [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
+- [Expected Goals (xG)](xg.md)
+- [Player Ratings](player-ratings.md)
 
 *Maintained by 365BeyondTheScores.*

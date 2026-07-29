@@ -20,6 +20,7 @@ This repository introduces common football statistics and explains what they mea
 - [Clean Sheet](clean-sheet.md)
 - [Key Passes](key-passes.md)
 - [Progressive Passes](progressive-passes.md)
+- [Player Ratings](player-ratings.md)
 ## Core Metrics List
 
 - 🎯 **[Expected Goals (xG)](xg.md)** — A statistical metric estimating shot probability.

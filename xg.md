@@ -95,7 +95,10 @@ Yes. A team can score from fewer or lower-probability chances and still win the 
 ### Is xG the same across every statistics provider?
 
 Not necessarily. Different providers can use different models and data.
+## Related Statistics
 
+- [Expected Assists (xA)](xa.md)
+- [Ball Possession](possession.md)
 ## Summary
 
 Expected Goals (xG) provides a statistical way to evaluate the quality of scoring opportunities.

@@ -10,36 +10,11 @@ A final score tells us the result of a match, while statistics can help explain 
 
 This repository introduces common football statistics and explains what they mean, how they are calculated, and how they can be interpreted.
 
-## Core Statistics
+## Core Metrics List
 
-### Goals
-
-The number of goals scored by a team or player during a match, competition, or period of time.
-
-### Assists
-
-An assist is generally credited to a player whose action directly contributes to a teammate scoring a goal.
-
-### Shots
-
-The total number of attempts made toward the opponent's goal.
-
-### Shots on Target
-
-Shots that are directed toward the goal and would enter the goal if not saved or blocked according to the relevant statistical definition.
-
-### Possession
-
-The percentage of time a team controls the ball during a match.
-
-### Passing Accuracy
-
-The percentage of completed passes compared with total attempted passes.
-
-### Clean Sheet
-
-A clean sheet means a team finishes a match without conceding a goal.
-
+- 🎯 **[Expected Goals (xG)](xg.md)** — A statistical metric estimating shot probability.
+- 👟 **[Expected Assists (xA)](xa.md)** — Measuring the quality of chances created by a pass.
+- 🔄 **[Possession Rate & Control](possession.md)** — Evaluating ball control, Field Tilt, and Build-up metrics.
 ## Advanced Statistics
 
 Modern football analysis also uses more advanced metrics to provide additional context.

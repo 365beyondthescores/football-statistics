@@ -113,7 +113,10 @@ A broader analysis might consider:
 **Possession → Territory → Chance Creation → Shot Quality → Goals**
 
 This provides more context than looking at possession alone.
+## Related Statistics
 
+- [Expected Goals (xG)](xg.md)
+- [Expected Assists (xA)](xa.md)
 ## Summary
 
 Ball possession is a useful statistic for understanding how much control a team had over the ball during a match.

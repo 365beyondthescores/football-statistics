@@ -200,6 +200,12 @@ For deeper analysis, player ratings should be considered alongside statistics su
 
 **Beyond the Score. Discover the Story.**
 
----
+## Related Statistics
+
+- [Expected Goals (xG)](xg.md)
+- [Expected Assists (xA)](xa.md)
+- [Key Passes](key-passes.md)
+- [Passing Accuracy](passing-accuracy.md)
+- [Clean Sheet](clean-sheet.md)
 
 *Maintained by 365BeyondTheScores.*

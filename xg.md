@@ -103,7 +103,11 @@ Expected Goals (xG) provides a statistical way to evaluate the quality of scorin
 It does not replace the final score. Instead, it provides additional context for understanding what happened during a match.
 
 **Beyond the Score. Discover the Story.**
+## Contextual Connections
 
+To fully understand how xG is accumulated during a match, it should be analyzed alongside:
+* 🔄 **[Possession Rate](possession.md):** Understanding the volume and area of ball control that leads to high xG chances.
+* 👟 **[Expected Assists (xA)](xa.md):** Measuring the passing quality that sets up the shot's xG value.
 ---
 
 *Maintained by 365BeyondTheScores.*

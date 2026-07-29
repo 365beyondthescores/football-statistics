@@ -9,7 +9,12 @@ Football statistics provide useful context for understanding team and player per
 A final score tells us the result of a match, while statistics can help explain how the match was played.
 
 This repository introduces common football statistics and explains what they mean, how they are calculated, and how they can be interpreted.
+## Statistics Guide
 
+- [Expected Goals (xG)](xg.md)
+- [Expected Assists (xA)](xa.md)
+- [Ball Possession](possession.md)
+- [Shots](shots.md)
 ## Core Metrics List
 
 - 🎯 **[Expected Goals (xG)](xg.md)** — A statistical metric estimating shot probability.

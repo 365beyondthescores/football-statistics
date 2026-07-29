@@ -167,6 +167,11 @@ They complement traditional passing statistics by focusing on progression rather
 
 **Beyond the Score. Discover the Story.**
 
----
+## Related Statistics
+
+- [Passing Accuracy](passing-accuracy.md)
+- [Key Passes](key-passes.md)
+- [Expected Assists (xA)](xa.md)
+- [Ball Possession](possession.md)
 
 *Maintained by 365BeyondTheScores.*

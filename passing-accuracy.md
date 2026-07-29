@@ -167,6 +167,11 @@ The best interpretation considers passing accuracy together with volume, difficu
 
 **Beyond the Score. Discover the Story.**
 
----
+## Related Statistics
+
+- [Ball Possession](possession.md)
+- [Progressive Passes](progressive-passes.md)
+- [Key Passes](key-passes.md)
+- [Expected Assists (xA)](xa.md)
 
 *Maintained by 365BeyondTheScores.*

@@ -122,7 +122,11 @@ It complements traditional assist statistics by looking beyond the final outcome
 **Data → Context → Analysis → Insight**
 
 **Beyond the Score. Discover the Story.**
+## Contextual Connections
 
+A player's ability to generate high xA is strongly tied to team structure and shot outcome:
+* 🎯 **[Expected Goals (xG)](xg.md):** The resulting chance quality generated from an xA pass.
+* 🔄 **[Possession Rate](possession.md):** How sustained team control in the final third creates opportunities for xA passes.
 ---
 
 *Maintained by 365BeyondTheScores.*

@@ -15,6 +15,7 @@ This repository introduces common football statistics and explains what they mea
 - [Expected Assists (xA)](xa.md)
 - [Ball Possession](possession.md)
 - [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
 ## Core Metrics List
 
 - 🎯 **[Expected Goals (xG)](xg.md)** — A statistical metric estimating shot probability.

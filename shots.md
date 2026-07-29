@@ -140,6 +140,11 @@ For a deeper understanding, shot volume should be considered alongside shot accu
 
 **Beyond the Score. Discover the Story.**
 
----
+## Related Statistics
+
+- [Shots on Target](shots-on-target.md)
+- [Expected Goals (xG)](xg.md)
+- [Expected Assists (xA)](xa.md)
+- [Ball Possession](possession.md)
 
 *Maintained by 365BeyondTheScores.*

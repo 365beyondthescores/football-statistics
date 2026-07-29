@@ -111,6 +111,11 @@ It does not replace the final score. Instead, it provides additional context for
 To fully understand how xG is accumulated during a match, it should be analyzed alongside:
 * 🔄 **[Possession Rate](possession.md):** Understanding the volume and area of ball control that leads to high xG chances.
 * 👟 **[Expected Assists (xA)](xa.md):** Measuring the passing quality that sets up the shot's xG value.
----
+## Related Statistics
+
+- [Expected Assists (xA)](xa.md)
+- [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
+- [Player Ratings](player-ratings.md)
 
 *Maintained by 365BeyondTheScores.*

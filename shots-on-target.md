@@ -147,6 +147,11 @@ However, they should be considered alongside total shots, shot quality, Expected
 
 **Beyond the Score. Discover the Story.**
 
----
+## Related Statistics
+
+- [Shots](shots.md)
+- [Expected Goals (xG)](xg.md)
+- [Ball Possession](possession.md)
+- [Player Ratings](player-ratings.md)
 
 *Maintained by 365BeyondTheScores.*

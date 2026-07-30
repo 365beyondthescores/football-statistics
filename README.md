@@ -176,6 +176,11 @@ Different providers may use different data sources, definitions, statistical mod
 When comparing statistics, always consider the provider and methodology.
 
 ---
+# References & Methodology
+
+For external references and further reading, see:
+
+- [References & Methodology](references.md)
 
 # Related Resources
 

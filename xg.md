@@ -6,7 +6,7 @@ Expected Goals (xG) is a statistical metric used to estimate the probability tha
 
 The metric is usually expressed as a value between 0 and 1 for an individual shot.
 
-For example, an xG value of 0.20 means that a statistical model estimates the shot has approximately a 20% probability of resulting in a goal.
+For example, an xG value of 0.20 can be interpreted as an estimated 20% scoring probability for that shot according to the model being used.
 
 ## How Is xG Calculated?
 
@@ -149,5 +149,5 @@ For published match statistics, always refer to the original data provider and i
 - [Shots on Target](shots-on-target.md)
 - [Ball Possession](possession.md)
 - [Player Ratings](player-ratings.md)
-- 
+- [References & Methodology](references.md)
 *Maintained by 365BeyondTheScores.*

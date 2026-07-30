@@ -201,11 +201,16 @@ Explore the individual statistical concepts in this knowledge hub:
 
 # About 365BeyondTheScores
 
-365BeyondTheScores is an independent digital media and knowledge project focused on sports, statistics, gaming, strategy, and educational resources.
+365BeyondTheScores is an independent digital media and knowledge project focused on sports, football statistics, analytics, and educational resources.
 
-We aim to make complex information easier to understand through structured explanations, data, context, and analysis.
+The project explores the information behind sports results and explains statistical concepts in a structured and accessible way.
 
 > **Beyond the Score. Discover the Story.**
+
+Learn more about the project:
+
+- [About 365BeyondTheScores](about.md)
+- [References & Methodology](references.md)
 
 ---
 

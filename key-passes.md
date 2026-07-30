@@ -132,12 +132,37 @@ Key passes are most useful when combined with other attacking metrics:
 
 This provides a broader view of a player's creative and attacking contribution.
 
-## Data Methodology
+## Data Sources and Methodology
 
-Football statistics can vary between providers because of differences in data sources, event definitions, and collection methods.
+Key passes are recorded using event data that identifies passes leading directly to a teammate's shot.
 
-When comparing key-pass statistics, always consider the source and methodology.
+The exact classification can vary between football data providers.
 
+A provider may need to determine:
+
+- Whether an action qualifies as a pass
+- Whether the pass directly precedes a shot
+- Whether the resulting attempt qualifies as a shot
+- How deflections or defensive touches are treated
+- How set pieces are classified
+
+### How to Compare Key-Pass Data
+
+When comparing key-pass statistics, consider:
+
+1. The data provider
+2. The definition of a key pass
+3. The definition of a shot
+4. How deflections are classified
+5. Whether the statistic is reported as a total or per 90 minutes
+
+### Important Note
+
+Key passes measure shot-creating actions, not the quality of the resulting chance.
+
+For deeper analysis, key passes can be considered alongside xA, shots, xG, and other chance-creation metrics.
+
+For published statistics, refer to the original data provider and its methodology.
 ## Summary
 
 Key passes are a useful statistic for understanding how frequently a player creates shooting opportunities for teammates.

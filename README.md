@@ -18,6 +18,9 @@ The goal is to help readers understand **what each metric means, how it is used,
 
 # Statistics Guide
 
+For a structured overview of all topics, see the [Football Statistics Topic Index](topics.md).
+
+...
 ## Shooting & Chance Quality
 
 Statistics related to shots and scoring opportunities.

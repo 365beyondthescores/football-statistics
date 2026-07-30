@@ -146,6 +146,7 @@ For a deeper understanding, shot volume should be considered alongside shot accu
 - [Expected Goals (xG)](xg.md)
 - [Expected Assists (xA)](xa.md)
 - [Ball Possession](possession.md)
+- [References & Methodology](references.md)
 ## Data Sources and Methodology
 
 Shot statistics are based on recorded attempts toward the goal.

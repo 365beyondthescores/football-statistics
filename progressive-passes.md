@@ -204,5 +204,6 @@ They complement traditional passing statistics by focusing on progression rather
 - [Key Passes](key-passes.md)
 - [Expected Assists (xA)](xa.md)
 - [Ball Possession](possession.md)
-
+- [References & Methodology](references.md)
+  
 *Maintained by 365BeyondTheScores.*

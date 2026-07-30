@@ -136,5 +136,43 @@ A player's ability to generate high xA is strongly tied to team structure and sh
 - [Key Passes](key-passes.md)
 - [Progressive Passes](progressive-passes.md)
 - [Player Ratings](player-ratings.md)
+## Data Sources and Methodology
+
+Expected Assists (xA) is not calculated using one universal methodology across all football statistics providers.
+
+Different providers may use different event data, models, definitions, and assumptions when estimating the expected value of a pass that leads to a shot.
+
+An xA model may consider factors such as:
+
+- Location of the resulting shot
+- Angle of the shot
+- Type of attacking action
+- Location from which the pass was played
+- Type of pass
+- Defensive pressure
+- Match situation
+- Other contextual information
+
+The exact variables and model structure can differ between providers.
+
+### How to Compare xA Data
+
+When comparing xA statistics, consider:
+
+1. The data provider
+2. The definition of an assist
+3. The model methodology
+4. The type of event data used
+5. Whether the statistic is reported per match, per 90 minutes, or as a total
+
+Different models can assign different xA values to the same chance.
+
+### Important Note
+
+xA is a model-based estimate and should not be interpreted as a guaranteed number of assists.
+
+The explanations in this knowledge hub describe the general concept of Expected Assists and are not intended to reproduce the proprietary methodology of any specific provider.
+
+For published statistics, refer to the original data provider and its methodology.
 
 *Maintained by 365BeyondTheScores.*

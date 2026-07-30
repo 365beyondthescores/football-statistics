@@ -202,5 +202,6 @@ It is a useful indicator of defensive results, but it should be interpreted toge
 - [Shots on Target](shots-on-target.md)
 - [Expected Goals (xG)](xg.md)
 - [Player Ratings](player-ratings.md)
-
+- [References & Methodology](references.md)
+  
 *Maintained by 365BeyondTheScores.*

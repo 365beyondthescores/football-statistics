@@ -180,13 +180,60 @@ A useful analysis can combine:
 
 This provides more context than looking at the final rating alone.
 
-## Data Methodology
+## Data Sources and Methodology
 
-Player ratings are not standardized across the football statistics industry.
+Football player ratings are not standardized across the industry.
 
-Different providers may use different definitions, datasets, algorithms, and weighting systems.
+Different providers may calculate ratings using different datasets, statistical models, weighting systems, and definitions.
 
-When comparing ratings, always identify the provider and understand how the rating is calculated.
+A player-rating model may consider factors such as:
+
+- Goals
+- Assists
+- Shots
+- Expected Goals (xG)
+- Expected Assists (xA)
+- Passing
+- Chance creation
+- Defensive actions
+- Duels
+- Ball recoveries
+- Playing time
+- Match result
+
+The importance assigned to each statistic can differ between providers.
+
+### Why Player Ratings Can Differ
+
+The same player can receive different ratings from different providers because each system may:
+
+- Use different event data
+- Weight statistics differently
+- Apply different models
+- Handle playing time differently
+- Evaluate player positions differently
+
+Therefore, a rating should always be interpreted according to the methodology of the provider that produced it.
+
+### How to Compare Player Ratings
+
+When comparing ratings, consider:
+
+1. The provider
+2. The rating scale
+3. The underlying statistics
+4. The player's position
+5. Playing time
+6. Competition and match context
+7. The methodology used to calculate the rating
+
+### Important Note
+
+A player rating is a summary metric, not a complete description of performance.
+
+For deeper analysis, examine the underlying statistics and the player's tactical role rather than relying on the rating alone.
+
+For published ratings, refer to the original data provider and its methodology.
 
 ## Summary
 

@@ -136,6 +136,7 @@ A player's ability to generate high xA is strongly tied to team structure and sh
 - [Key Passes](key-passes.md)
 - [Progressive Passes](progressive-passes.md)
 - [Player Ratings](player-ratings.md)
+- [References & Methodology](references.md)
 ## Data Sources and Methodology
 
 Expected Assists (xA) is not calculated using one universal methodology across all football statistics providers.

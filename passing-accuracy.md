@@ -149,12 +149,45 @@ Passing accuracy becomes more useful when combined with:
 
 This provides a broader view of passing performance than accuracy alone.
 
-## Data Methodology
+## Data Sources and Methodology
 
-Football statistics can differ between data providers because they may use different event definitions, data sources, and collection methodologies.
+Passing accuracy is generally calculated from recorded completed and attempted passes.
 
-When comparing statistics, consider the source and methodology.
+A basic calculation is:
 
+**Passing Accuracy = Completed Passes ÷ Attempted Passes × 100**
+
+However, the classification of an attempted or completed pass can vary between football data providers.
+
+Differences may relate to:
+
+- What counts as a pass
+- How incomplete passes are recorded
+- Deflections
+- Interceptions
+- Crosses
+- Set-piece deliveries
+- Match-event classification
+
+### How to Compare Passing Accuracy
+
+When comparing passing accuracy, consider:
+
+1. The data provider
+2. The definition of an attempted pass
+3. The definition of a completed pass
+4. Whether specific types of passes are included
+5. The player's position and tactical role
+
+### Important Note
+
+Passing accuracy does not measure the difficulty or attacking value of a pass.
+
+A safe short pass and a difficult progressive pass may have very different levels of risk.
+
+Therefore, passing accuracy should be interpreted alongside passing volume, progression, key passes, and tactical context.
+
+For published statistics, refer to the original data provider and its methodology.
 ## Summary
 
 Passing accuracy is a useful statistic for understanding how frequently attempted passes are completed.

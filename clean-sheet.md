@@ -147,12 +147,45 @@ A more complete defensive analysis can combine:
 
 This provides more information than clean-sheet totals alone.
 
-## Data Methodology
+## Data Sources and Methodology
 
-Definitions and statistical classifications can vary between football data providers.
+A clean sheet is generally determined from the official match result and whether a team conceded a goal during the match.
 
-When comparing clean-sheet statistics, consider the competition rules, match format, data source, and methodology.
+The basic definition is straightforward:
 
+**Clean Sheet = No Goals Conceded**
+
+However, statistical records can depend on competition rules and the treatment of unusual match situations.
+
+When analyzing clean-sheet statistics, relevant context may include:
+
+- Match result
+- Goals conceded
+- Playing time
+- Substitutions
+- Competition rules
+- Abandoned or interrupted matches
+- Official match records
+
+### How to Compare Clean-Sheet Data
+
+When comparing clean-sheet statistics, consider:
+
+1. The competition
+2. The official match result
+3. The definition used by the data provider
+4. Whether the statistic refers to a team or an individual goalkeeper
+5. The period being analyzed
+
+### Important Note
+
+A clean sheet is primarily a result-based defensive statistic.
+
+It does not measure the number or quality of chances conceded.
+
+For deeper analysis, combine clean sheets with shots allowed, shots on target allowed, xG allowed, and defensive context.
+
+For published statistics, refer to the official competition or original data provider.
 ## Summary
 
 A clean sheet records a match in which a team does not concede a goal.

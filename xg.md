@@ -95,10 +95,6 @@ Yes. A team can score from fewer or lower-probability chances and still win the 
 ### Is xG the same across every statistics provider?
 
 Not necessarily. Different providers can use different models and data.
-## Related Statistics
-
-- [Expected Assists (xA)](xa.md)
-- [Ball Possession](possession.md)
 ## Summary
 
 Expected Goals (xG) provides a statistical way to evaluate the quality of scoring opportunities.
@@ -106,16 +102,51 @@ Expected Goals (xG) provides a statistical way to evaluate the quality of scorin
 It does not replace the final score. Instead, it provides additional context for understanding what happened during a match.
 
 **Beyond the Score. Discover the Story.**
-## Contextual Connections
 
-To fully understand how xG is accumulated during a match, it should be analyzed alongside:
-* 🔄 **[Possession Rate](possession.md):** Understanding the volume and area of ball control that leads to high xG chances.
-* 👟 **[Expected Assists (xA)](xa.md):** Measuring the passing quality that sets up the shot's xG value.
+## Data Sources and Methodology
+
+Expected Goals (xG) is not a single universal statistic with one standardized calculation.
+
+Different football data providers may use different datasets, variables, models, and definitions when calculating xG.
+
+An xG model may consider factors such as:
+
+- Shot location
+- Shot distance
+- Shot angle
+- Type of assist
+- Body part used
+- Defensive pressure
+- Match situation
+- Whether the shot follows a set piece or open play
+
+Because methodologies differ, the same shot or match can receive different xG values from different providers.
+
+### How to Compare xG Data
+
+When comparing xG statistics, consider:
+
+1. The data provider
+2. The definition of xG
+3. The model methodology
+4. The competition and match context
+5. Whether the values are team-level or player-level
+
+An xG value should therefore be interpreted as a model-based estimate rather than an objective probability that is identical across every data source.
+
+### Important Note
+
+The explanations in this knowledge hub describe general football-statistics concepts.
+
+They are not intended to reproduce or represent the proprietary methodology of any specific statistical provider.
+
+For published match statistics, always refer to the original data provider and its methodology.
+
 ## Related Statistics
 
 - [Expected Assists (xA)](xa.md)
 - [Shots](shots.md)
 - [Shots on Target](shots-on-target.md)
+- [Ball Possession](possession.md)
 - [Player Ratings](player-ratings.md)
-
 *Maintained by 365BeyondTheScores.*

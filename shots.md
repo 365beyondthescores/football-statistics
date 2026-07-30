@@ -146,5 +146,39 @@ For a deeper understanding, shot volume should be considered alongside shot accu
 - [Expected Goals (xG)](xg.md)
 - [Expected Assists (xA)](xa.md)
 - [Ball Possession](possession.md)
+## Data Sources and Methodology
+
+Shot statistics are based on recorded attempts toward the goal.
+
+Different football data providers may use different event definitions and classification rules when recording shots.
+
+A shot classification may take into account factors such as:
+
+- The player's attempt
+- Whether the attempt is directed toward goal
+- Whether the attempt is blocked
+- Whether the attempt results in a goal
+- The location of the attempt
+- The match event sequence
+
+The exact classification of an attempt can vary between providers.
+
+### How to Compare Shot Data
+
+When comparing shot statistics, consider:
+
+1. The data provider
+2. The definition of a shot
+3. How blocked attempts are classified
+4. Whether own goals and deflections are treated differently
+5. The competition and match context
+
+### Important Note
+
+Shot totals should be interpreted together with other metrics such as shots on target, xG, and match context.
+
+A high number of shots does not necessarily indicate that a team created high-quality scoring opportunities.
+
+For published statistics, refer to the original data provider and its methodology.
 
 *Maintained by 365BeyondTheScores.*

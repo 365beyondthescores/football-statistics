@@ -84,8 +84,13 @@ The explanations in this repository describe general football-statistics concept
 
 # About 365BeyondTheScores
 
-365BeyondTheScores is an independent digital media and knowledge project focused on sports, statistics, analysis, and educational resources.
+365BeyondTheScores is an independent digital media and knowledge project focused on sports, football statistics, analytics, and educational resources.
 
-The purpose of this repository is to organize football-statistics concepts into a structured and accessible knowledge resource.
+The Football Statistics Knowledge Hub is part of the 365BeyondTheScores project.
+
+For more information:
+
+- [About 365BeyondTheScores](about.md)
+- [Football Statistics Knowledge Hub](README.md)
 
 > **Beyond the Score. Discover the Story.**

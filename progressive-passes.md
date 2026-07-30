@@ -151,11 +151,42 @@ A broader analysis can combine:
 
 This helps distinguish between moving the ball forward and directly creating scoring opportunities.
 
-## Data Methodology
+## Data Sources and Methodology
 
-Football statistics can vary between providers because of differences in definitions, thresholds, data sources, and collection methods.
+Progressive-pass statistics are based on event data that evaluates how substantially a pass advances the ball toward the opponent's goal.
 
-When comparing progressive-pass statistics, always consider the methodology used by the data provider.
+There is no single universal definition used by every football statistics provider.
+
+Different methodologies may use different:
+
+- Distance thresholds
+- Starting locations
+- Ending locations
+- Field zones
+- Directional criteria
+- Event classifications
+
+Because of these differences, two providers may report different progressive-pass totals for the same player or match.
+
+### How to Compare Progressive-Pass Data
+
+When comparing statistics, consider:
+
+1. The data provider
+2. The definition of a progressive pass
+3. The distance or field-position criteria
+4. Whether the statistic refers to attempted or completed passes
+5. Whether the data is reported as a total or per 90 minutes
+
+### Important Note
+
+Progressive passes measure ball progression, not necessarily chance creation.
+
+A progressive pass can move the ball into a more advanced area without directly creating a shot.
+
+For deeper analysis, combine progressive passes with passing accuracy, key passes, xA, possession, and tactical context.
+
+For published statistics, refer to the original data provider and its methodology.
 
 ## Summary
 

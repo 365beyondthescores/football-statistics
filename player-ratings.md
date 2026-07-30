@@ -254,5 +254,6 @@ For deeper analysis, player ratings should be considered alongside statistics su
 - [Key Passes](key-passes.md)
 - [Passing Accuracy](passing-accuracy.md)
 - [Clean Sheet](clean-sheet.md)
-
+- [References & Methodology](references.md)
+  
 *Maintained by 365BeyondTheScores.*

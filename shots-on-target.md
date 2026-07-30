@@ -131,12 +131,39 @@ A broader analysis can combine:
 
 This provides more context than looking at shooting accuracy alone.
 
-## Data Methodology
+## Data Sources and Methodology
 
-Football statistics can vary between providers because they may use different data sources, event definitions, and collection methods.
+Shots on target are recorded according to the shot-classification methodology used by a football data provider.
 
-When comparing statistics, always consider the source and methodology.
+The classification generally distinguishes attempts directed toward the goal from attempts that miss the goal or are stopped before reaching the goal.
 
+Depending on the provider, the classification can involve factors such as:
+
+- Whether the attempt results in a goal
+- Whether the goalkeeper saves the attempt
+- Whether the attempt is stopped by a defender
+- Whether the attempt misses the goal
+- Whether the ball hits the post or crossbar
+
+Different providers may classify certain events differently.
+
+### How to Compare Shots on Target Data
+
+When comparing statistics, consider:
+
+1. The data provider
+2. The provider's definition of a shot on target
+3. How blocked attempts are classified
+4. How shots hitting the post or crossbar are classified
+5. Competition and match context
+
+### Important Note
+
+Shots on target should not be treated as a direct measure of chance quality.
+
+For deeper analysis, combine shots on target with total shots, xG, and other attacking metrics.
+
+For published statistics, refer to the original data provider and its methodology.
 ## Summary
 
 Shots on target are an important indicator of shooting accuracy and attacking activity.

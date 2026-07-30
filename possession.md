@@ -135,5 +135,6 @@ The most useful insights come from combining possession with tactics, chance cre
 - [Passing Accuracy](passing-accuracy.md)
 - [Progressive Passes](progressive-passes.md)
 - [Expected Goals (xG)](xg.md)
-
+- [References & Methodology](references.md)
+  
 *Maintained by 365BeyondTheScores.*

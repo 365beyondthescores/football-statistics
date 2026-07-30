@@ -180,5 +180,6 @@ However, they should be considered alongside total shots, shot quality, Expected
 - [Expected Goals (xG)](xg.md)
 - [Ball Possession](possession.md)
 - [Player Ratings](player-ratings.md)
+- [References & Methodology](references.md)
 
 *Maintained by 365BeyondTheScores.*

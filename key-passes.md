@@ -179,5 +179,6 @@ They complement assists and expected-assist metrics by focusing on the creation 
 - [Shots](shots.md)
 - [Shots on Target](shots-on-target.md)
 - [Progressive Passes](progressive-passes.md)
-
+- [References & Methodology](references.md)
+  
 *Maintained by 365BeyondTheScores.*

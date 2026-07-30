@@ -206,5 +206,6 @@ The best interpretation considers passing accuracy together with volume, difficu
 - [Progressive Passes](progressive-passes.md)
 - [Key Passes](key-passes.md)
 - [Expected Assists (xA)](xa.md)
-
+- [References & Methodology](references.md)
+  
 *Maintained by 365BeyondTheScores.*

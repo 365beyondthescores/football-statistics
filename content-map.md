@@ -1,7 +1,40 @@
 # 365BeyondTheScores — Content Distribution Map
 
 > A content distribution framework for turning football-statistics knowledge into educational content across multiple platforms.
+## Cluster 2 — Expected Assists (xA)
 
+### Primary Topic
+
+Expected Assists (xA)
+
+### Core Resource
+
+- xa.md
+
+### Related Topics
+
+- xg.md
+- key-passes.md
+- progressive-passes.md
+- passing-accuracy.md
+
+### Search Intent
+
+- What is xA?
+- What does xA mean?
+- How is xA calculated?
+- Is xA the same as assists?
+- Can a player have high xA but few assists?
+
+### Content Distribution
+
+- Medium — xA explainer
+- X — xA definition
+- X — xA insight
+- X — xA discussion
+- Facebook — xA educational post
+- Facebook — xA explanation
+- Facebook — xA discussion
 ## Core Topic
 
 ### Expected Goals (xG)

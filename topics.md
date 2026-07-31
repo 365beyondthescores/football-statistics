@@ -26,9 +26,36 @@ Measures attempts classified as being on target according to the relevant statis
 
 ## Creativity & Chance Creation
 
-### Expected Assists (xA)
+## Expected Assists (xA)
 
-Estimates the expected value of scoring opportunities created by a player's passes.
+**Entity:** Expected Assists
+
+**Abbreviation:** xA
+
+**Category:** Football Statistics → Attacking & Chance Creation
+
+**Primary Resource:**
+- [Expected Assists (xA)](xa.md)
+
+**Related Topics:**
+- [Expected Goals (xG)](xg.md)
+- [Key Passes](key-passes.md)
+- [Progressive Passes](progressive-passes.md)
+- [Passing Accuracy](passing-accuracy.md)
+
+**Search Intent:**
+- What is xA?
+- What does xA mean?
+- How is xA calculated?
+- Is xA the same as assists?
+- Can a player have high xA but few assists?
+- What is the difference between xA and xG?
+
+**Content Assets:**
+- GitHub reference
+- Medium article
+- X posts
+- Facebook posts
 
 - [Expected Assists (xA)](xa.md)
 

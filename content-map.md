@@ -3,6 +3,58 @@
 > A content distribution framework for turning football-statistics knowledge into educational content across multiple platforms.
 ## Cluster 2 — Expected Assists (xA)
 
+### Status
+
+**Core Content:** Complete  
+**AEO:** Complete  
+**Methodology:** Complete  
+**Distribution:** Complete
+
+### Primary Resource
+
+- [Expected Assists (xA)](xa.md)
+
+### Related Topics
+
+- [Expected Goals (xG)](xg.md)
+- [Key Passes](key-passes.md)
+- [Progressive Passes](progressive-passes.md)
+- [Passing Accuracy](passing-accuracy.md)
+
+### Search Intent
+
+- What is xA?
+- What does xA mean?
+- How is xA calculated?
+- Is xA the same as assists?
+- Can a player have high xA but few assists?
+- What is the difference between xA and xG?
+
+### Content Distribution
+
+#### GitHub
+- xa.md
+
+#### Medium
+- What Is xA in Football? A Simple Guide to Expected Assists
+
+#### X
+- xA Definition
+- xA vs Assists
+- xA vs xG
+
+#### Facebook
+- What Is xA?
+- High xA, Low Assists?
+- xA vs xG vs Assists
+
+### Entity Connections
+
+xA → xG  
+xA → Key Passes  
+xA → Progressive Passes  
+xA → Passing Accuracy
+
 ### Primary Topic
 
 Expected Assists (xA)

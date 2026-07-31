@@ -137,24 +137,26 @@ A player's ability to generate high xA is strongly tied to team structure and sh
 - [Progressive Passes](progressive-passes.md)
 - [Player Ratings](player-ratings.md)
 - [References & Methodology](references.md)
-## Data Sources and Methodology
+- [Passing Accuracy](passing-accuracy.md)
+## Data Methodology
 
-Expected Assists (xA) is not calculated using one universal methodology across all football statistics providers.
+Expected Assists (xA) is a model-based statistic used to estimate the probability that a pass or chance-creating action will result in an assist.
 
-Different providers may use different event data, models, definitions, and assumptions when estimating the expected value of a pass that leads to a shot.
+Different data providers may calculate xA using different models, datasets, event definitions, and variables.
 
-An xA model may consider factors such as:
+Factors that may influence an xA model can include:
 
-- Location of the resulting shot
-- Angle of the shot
-- Type of attacking action
-- Location from which the pass was played
+- Location of the pass
 - Type of pass
+- Location of the resulting shot
+- Shot angle
+- Assist context
 - Defensive pressure
 - Match situation
-- Other contextual information
 
-The exact variables and model structure can differ between providers.
+Because methodologies differ between providers, xA values may not be directly comparable across all sources.
+
+When comparing xA statistics, always consider the provider and methodology behind the data.
 
 ### How to Compare xA Data
 
@@ -175,5 +177,37 @@ xA is a model-based estimate and should not be interpreted as a guaranteed numbe
 The explanations in this knowledge hub describe the general concept of Expected Assists and are not intended to reproduce the proprietary methodology of any specific provider.
 
 For published statistics, refer to the original data provider and its methodology.
+## Frequently Asked Questions
+
+### What does xA stand for?
+
+xA stands for **Expected Assists**.
+
+### What does xA measure?
+
+xA estimates the likelihood that a pass or chance-creating action will result in an assist, according to the model being used.
+
+### Is xA the same as assists?
+
+No. Assists are actual recorded outcomes, while xA is a statistical estimate of the expected assist value of chance creation.
+
+### Can a player have high xA but few assists?
+
+Yes. A player can create many high-quality opportunities but have fewer actual assists because teammates may fail to convert those chances.
+
+### How is xA calculated?
+
+Different providers use different models and datasets. Factors may include the location and type of pass, the resulting shot location, shot angle, and other contextual variables.
+
+### Is xA the same across every statistics provider?
+
+Not necessarily. Different providers can use different methodologies, event definitions, and data sources.
+## Contextual Connections
+
+Expected Assists (xA) is closely related to other football statistics.
+
+- **[Expected Goals (xG)](xg.md):** xG evaluates the quality of scoring opportunities, while xA focuses on the chance-creating action that leads to a potential assist.
+- **[Key Passes](key-passes.md):** Key passes count passes that lead to a shot, while xA attempts to evaluate the expected assist value of those opportunities.
+- **[Progressive Passes](progressive-passes.md):** Progressive passing can contribute to advancing attacks, although a progressive pass is not necessarily a chance-creating action.
 
 *Maintained by 365BeyondTheScores.*

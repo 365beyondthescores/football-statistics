@@ -224,7 +224,13 @@ Football statistics can vary between providers because different organizations m
 This knowledge hub is intended for informational and educational purposes.
 
 Always consider the original data source and methodology when comparing statistics.
+### Attacking & Chance Creation
 
+- [Expected Goals (xG)](xg.md)
+- [Expected Assists (xA)](xa.md)
+- [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
+- [Key Passes](key-passes.md)
 ---
 
 *Maintained by 365BeyondTheScores.*

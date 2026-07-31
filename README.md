@@ -33,7 +33,10 @@ Statistics related to shots and scoring opportunities.
 
 Statistics related to creating opportunities for teammates.
 
+- [Expected Goals (xG)](xg.md)
 - [Expected Assists (xA)](xa.md)
+- [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
 - [Key Passes](key-passes.md)
 
 ## Possession & Passing

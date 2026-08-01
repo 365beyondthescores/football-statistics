@@ -87,6 +87,69 @@ Expected Assists (xA)
 - Facebook — xA educational post
 - Facebook — xA explanation
 - Facebook — xA discussion
+## Cluster 3 — Ball Possession
+
+### Status
+
+**Core Content:** Complete  
+**AEO:** Complete  
+**Methodology:** Complete  
+**Distribution:** Complete
+
+### Primary Resource
+
+- [Ball Possession](possession.md)
+
+### Related Topics
+
+- [Expected Goals (xG)](xg.md)
+- [Expected Assists (xA)](xa.md)
+- [Passing Accuracy](passing-accuracy.md)
+- [Progressive Passes](progressive-passes.md)
+- [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
+
+### Search Intent
+
+- What is possession in football?
+- What does possession mean?
+- How is possession calculated?
+- Is higher possession better?
+- Can a team win with less possession?
+- Does more possession mean dominance?
+- What is a good possession percentage?
+- Is possession the same across statistics providers?
+
+### Content Distribution
+
+#### GitHub
+
+- possession.md
+
+#### Medium
+
+- What Is Ball Possession in Football? A Simple Guide to Possession
+
+#### X
+
+- What Is Ball Possession?
+- More Possession ≠ Better Performance
+- Possession vs xG
+
+#### Facebook
+
+- What Is Ball Possession?
+- More Possession ≠ Better Performance
+- Possession vs xG
+
+### Entity Connections
+
+Possession → Passing Accuracy  
+Possession → Progressive Passes  
+Possession → xA  
+Possession → xG  
+Possession → Shots  
+Possession → Shots on Target
 ## Core Topic
 
 ### Expected Goals (xG)

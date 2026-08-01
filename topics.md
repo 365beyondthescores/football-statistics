@@ -69,11 +69,38 @@ Measures passes that directly lead to a teammate's shot according to the relevan
 
 ## Possession & Passing
 
-### Ball Possession
+## Ball Possession
 
-Describes the proportion of match play during which a team controls the ball according to the relevant data methodology.
+**Entity:** Ball Possession
 
+**Category:** Football Statistics → Team Performance & Match Control
+
+**Primary Resource:**
 - [Ball Possession](possession.md)
+
+**Related Topics:**
+- [Expected Goals (xG)](xg.md)
+- [Expected Assists (xA)](xa.md)
+- [Passing Accuracy](passing-accuracy.md)
+- [Progressive Passes](progressive-passes.md)
+- [Shots](shots.md)
+- [Shots on Target](shots-on-target.md)
+
+**Search Intent:**
+- What is possession in football?
+- What does possession mean?
+- How is possession calculated?
+- Is higher possession better?
+- Can a team win with less possession?
+- Does more possession mean dominance?
+- What is a good possession percentage?
+- Is possession the same across statistics providers?
+
+**Content Assets:**
+- GitHub reference
+- Medium article
+- X posts
+- Facebook posts
 
 ### Passing Accuracy
 
